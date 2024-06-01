@@ -1,10 +1,7 @@
 # qa-automation-js-roadmap
 
-@startmindmap
-* Root 1
-** Foo
-** Bar
-* Root 2
-** Lorem
-** Ipsum
-@endmindmap
+This is some example text in a Markdown file. Followed by a PlantUML diagram, loaded from an URL.
+
+```plantuml
+!include https://gitlab.com/my-drawing.puml
+```

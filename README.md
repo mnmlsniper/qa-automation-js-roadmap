@@ -10,14 +10,28 @@ mindmap
             селекторы
       git
       протоколы
+        AMQP
         API
-      архитектура 
-    Специализированные навыки
-      WEB
-      Mobile
-      API
-      database
+        SOAP
+       JS 
+      архитектура
+        архитектура тестового фреймворка
     Инструментальные навыки
-      Playwright
-    
+     API UI Automation
+     Database
+     Mobile UI Automation
+     WEB UI Automation
+      Фреймворки
+       Playwright
+      Библиотеки
+        Ранеры
+         Jest
+         Mocha
+       Репортеры
+        Allure
+      CI/CD
+       Docker
+       Github
+       Gitlab
+       Jenkins
 ```

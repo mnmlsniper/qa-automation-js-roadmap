@@ -3,21 +3,21 @@ Here is a simple flow chart:
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
 mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-
+  root((qa automation js))
+    Базовые навыки
+      html + css
+        DOM
+            селекторы
+      git
+      протоколы
+        API
+      архитектура 
+    Специализированные навыки
+      WEB
+      Mobile
+      API
+      database
+    Инструментальные навыки
+      Playwright
+    
 ```

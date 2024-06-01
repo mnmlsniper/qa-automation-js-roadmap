@@ -1,7 +1,7 @@
 Here is a simple flow chart:
 
 ```mermaid
-%%{init: {'theme':'forest'}}%%
+%%{init: {'theme':'dark'}}%%
 mindmap
   root((mindmap))
     Origins

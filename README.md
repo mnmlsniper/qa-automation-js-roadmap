@@ -1,4 +1,9 @@
-Here is a simple flow chart:
+# QA.GURU + Javascript
+## Как готовится?
+
+
+## Карта развития для JS автоматизатора
+JS Automation Roadmap:
 
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
@@ -13,7 +18,9 @@ mindmap
         AMQP
         API
         SOAP
-       JS 
+       Язык программирования
+        JS 
+       Тестирование
       архитектура
         архитектура тестового фреймворка
     Инструментальные навыки

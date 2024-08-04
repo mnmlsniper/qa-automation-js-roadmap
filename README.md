@@ -1,5 +1,7 @@
  # QA.GURU + Javascript
 
+## Что будем изучать и какой получим результат?
+[Программа курса][program]
 
 ## Как готовится?
 По желанию до начала занятий можно: 
@@ -59,3 +61,4 @@ mindmap
 [chat]: https://t.me/qa_guru_chat
 [codebasic]: <https://code-basics.com/ru/languages/javascript>
 [git]:  https://ru.hexlet.io/courses/intro_to_git
+[program]:  educationProgram.md
